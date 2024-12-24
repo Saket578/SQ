@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+#heading{
+    font-size: 30px;
+    color: red;
+}
+#qs{
+    width:90%;
+    height:700px;
+}
+#btn{
+    width: 200px;
+    height:20px;
+    cursor: pointer;
+}
